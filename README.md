@@ -330,5 +330,3 @@ npm run lint
 # Production build
 npm run build
 ```
-#   c a r e e r p i l o t  
- 

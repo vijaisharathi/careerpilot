@@ -1,0 +1,24 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Explicit text file types
+*.md text diff=markdown
+*.ts text
+*.tsx text
+*.js text
+*.jsx text
+*.json text
+*.css text
+*.html text
+*.yml text
+*.yaml text
+*.env.example text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+
