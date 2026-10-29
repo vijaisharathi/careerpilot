@@ -1,0 +1,12 @@
+export * as healthController from './health.controller';
+export * as authController from './auth.controller';
+export * as profileController from './profile.controller';
+export * as careerController from './career.controller';
+export * as roadmapController from './roadmap.controller';
+export * as jobController from './job.controller';
+export * as aiController from './ai.controller';
+export * from './resume.controller';
+export * from './interview.controller';
+export * from './jobApplication.controller';
+export * from './dashboard.controller';
+export * from './notification.controller';
